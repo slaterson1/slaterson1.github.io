@@ -2047,17 +2047,16 @@
 		input[type="submit"].special,
 		input[type="reset"].special,
 		.button.special {
-			background: #83d3c9;
-			border-color: #83d3c9;
-			color: #fff !important;
+			/*border-color: inherit;
+			color: #fff !important;*/
 		}
 
 			input[type="button"].special:hover,
 			input[type="submit"].special:hover,
 			input[type="reset"].special:hover,
 			.button.special:hover {
-				background: #96dad1 !important;
-				border-color: #96dad1 !important;
+				/*background: #96dad1 !important;*/
+				/*border-color: inherit !important;*/
 			}
 
 		input[type="button"].fit,
@@ -2317,7 +2316,7 @@
 				-webkit-transition: none;
 				-ms-transition: none;
 				transition: none;
-				color: inherit;
+				color: #7c8081;
 				text-decoration: none;
 				padding: 0 1em;
 				border: 0;
