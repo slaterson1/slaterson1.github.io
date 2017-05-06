@@ -1866,7 +1866,7 @@
 					background: #55041A;
 				}
 
-			
+
 			.icon.circle.fa-github {
 				background: #3E0030;
 				color: #fff;
@@ -2379,6 +2379,7 @@
 		cursor: default;
 		padding: 6em 0;
 		text-align: center;
+		background-size: cover;
 	}
 
 		#banner .inner {
